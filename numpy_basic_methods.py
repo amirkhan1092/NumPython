@@ -35,9 +35,9 @@ A = np.array([2,3])
 
 # make it object
 # ?A.dtype = object # cant change or modify it to the object so we can perform normal operation on its elements
-A = np.array([2,3],dtype='object')
-print(A[0])
-print(type(A[0]))# <class 'int'>
+
+
+
 
 
 

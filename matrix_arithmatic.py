@@ -85,5 +85,5 @@ A = A.transpose()
 print(A)
 
 
-A = np.linspace(0,10,10)
+A = np.linspace(0, 2, 10)
 print(A)
